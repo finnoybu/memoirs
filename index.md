@@ -15,7 +15,7 @@ Possibly somewhat wild, as a youth, and not very easy to handle, I hope I may be
 
 Willing to abide by law and justice, I found there was not always a clear line between justice and injustice on board the ships.
 
-Life on the sailships was on of endless changes and all kinds of happenings, some comical, some tragic, and some a mixture of both I always looked rather for the comical even in the most serious circumstances.
+Life on the sailships was one of endless changes and all kinds of happenings, some comical, some tragic, and some a mixture of both. I always looked rather for the comical even in the most serious circumstances.
 
 --- 
 
