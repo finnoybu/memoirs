@@ -16,7 +16,7 @@
 
 [Donate]()
 
-* [![Buy Me A Coffee logo](./images/bmc-button.png "$") &nbsp;Buy me a coffee](https://www.buymeacoffee.com/finnoybu)
+* [![Buy Me A Coffee logo](../images/bmc-button.png "$") &nbsp;Buy me a coffee](https://www.buymeacoffee.com/finnoybu)
 * [![PayPal logo](../images/paypal-button.png "$$") &nbsp;Donate via PayPal](https://www.paypal.com/paypalme/finnoybu)
 * [![Patreon log](../images/patreon-button.png "$$$") &nbsp;Sponsor me on Patreon](https://www.patreon.com/finnoybu)
 
