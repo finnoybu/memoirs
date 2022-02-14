@@ -1754,7 +1754,7 @@ Remarkably enough, from that day there was a different situation in the forecast
 
 There began now to be real comradeship among the men, although it took some time to entirely break down the party wall. After a while I began to understand it was the best thing that could have happened that Sven and I had a chance to test our strength. Now we knew each other better, and this had a salutary influence on all the other men. It was hardest for Sven to get over it, but gradually he grew more friendly, and eventually we became very good friends. We had not been more than a month out before there was as splendid a comradship in the forecastle as I have seen aboard any ship.
 
-From the foregoing it will appear that it was not always easy to harmonize this situation among the men of the crew.From the foregoing it will appear that it was not always easy to harmonize this situation among the men of the crew.
+From the foregoing it will appear that it was not always easy to harmonize this situation among the men of the crew.
 
 When the ballat was out it took only a short time to run the ship full of coal. We took in 1,350 tons. A ship will carry more weight for a full load than its registered tonnage. We ccould ahve taken 1,500 tons, but for the length of the voyage. The ship will ordinarily travel faster with a light load, so what is lost in number of tons carried will be gained by reason of a quicker passage. The insurance contract also prevents taking too large a load.
 
