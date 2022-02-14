@@ -1760,6 +1760,10 @@ When the ballat was out it took only a short time to run the ship full of coal. 
 
 ---
 
+When the ballat was out it took only a short time to run the ship full of coal. We took in 1,350 tons. A ship will carry more weight for a full load than its registered tonnage. We ccould ahve taken 1,500 tons, but for the length of the voyage. The ship will ordinarily travel faster with a light load, so what is lost in number of tons carried will be gained by reason of a quicker passage. The insurance contract also prevents taking too large a load.
+
+---
+
 ## More Content Coming Soon!
 
 #### Off to the Tropics
