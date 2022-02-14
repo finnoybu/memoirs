@@ -2,7 +2,7 @@
 
 [Projects]()
 
-* [![Markdown logo](../images/markdown-button.png "Markdown") &nbsp;finnoybu.github.io](https://github.com/finnoybu/finnoybu.github.io)
+* [![Markdown logo](finnoybu.gihub.io/images/markdown-button.png "Markdown") &nbsp;finnoybu.github.io](https://github.com/finnoybu/finnoybu.github.io)
 * [![Python logo](../images/python-button.png "Python") &nbsp;Digital forensics scripts](https://github.com/finnoybu/dfir)
 * [![Markdown logo](../images/markdown-button.png "Markdown") &nbsp;Memoirs of Olavus Vastbo](https://github.com/finnoybu/memoirs)
 
@@ -22,4 +22,3 @@
 
 [gimmick:themechooser](ThemeChooser)
 [gimmick:theme](Cosmo)
-
