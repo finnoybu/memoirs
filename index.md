@@ -861,7 +861,8 @@ Possibly this is enough about Jamaica. We had now been here about six weeks, dur
 
 ## Sailing in the Gulf Stream, with Scorpions
 
-We sailed around the west end of Cuba and then northeastward up through the strait between the Bahamas and Florida. The wind was now against us, but it was weak and, as the strait is narrow for tacking we did not try to do that, but braced our fore-rigging aback so we lay almost still with side to the wind, and the current carried us against the wind up the strait. 
+We sailed around the west end of Cuba and then northeastward up through [the strait between the Bahamas and Florida](https://en.wikipedia.org/wiki/Straits_of_Florida). The wind was now against us, but it was weak and, as the strait is narrow for tacking we did not try to do that, but braced our fore-rigging aback so we lay almost still with side to the wind, and the current carried us against the wind up the strait. 
+
 This current is the Gulfstream, which comes out of the Gulf of Mexico and runs here northeastward at a speed of about 5 miles per hour. When well out in the Atlantic, we set sail for England. We were to go to a little town, called Goole, 20 miles up the Humber river from Hull.
 
 Not long after we were out of the strait of Florida, in a fine clear moonlight night, it was my watch on deck. There was nothing to do at the moment, so I laid down on the tarpaulin cover of the main hatchway, with folded arms over chest. The position was not quite comfortable and I lifted my head a little to rest more comfortably, and then laid back again. But it came to my mind that I had seen the shadow of something.
@@ -1792,11 +1793,20 @@ Well south of the Equator the polestar went down, and the Southern Cross appeare
 
 After some days we came out of the belt of calm and variable winds, and into southeast tradewind, and now it was to lay at bywind south-south-west under full press of sail. The breeze became stiff, and we made good time. Here we had easy days. Not a brace or sail was shifted, day or night, as the wind was steady and even from the same direction. And the temperature was suitable and pleasant. We sailed thus toward the southern point of South ~~America~~ Africa until we were in latitude about 40° South. There we came out of the southeast tradewind, and soon we found the wind changed to west, another tradewind which is said to blow in that direction here all year round. It blew a brisk gale. We had to shorten sail, leaving her scudding under reeved topsails. Thus, we bowled along for about 3 weeks on a straight easterly course. Our speed was about 11 knots per hour; and we were passing about 500 miles south of [Cape Good Hope](https://en.wikipedia.org/wiki/Cape_of_Good_Hope).
 
+---
 
+## The Flying Dutchman
+
+On one of those days while thus crossing the southern Atlantic we saw a sight that has always been a mystery to sailors, namely, the Flying Dutchman, or 'Death Ship'. It was shortly after noon; we were engaged in some work on deck. The air was clear and visibility good. We had not seen a ship since we got out of the British Channel, though we always looked for ships. All at once we saw a ship right to south of us, apparently about 8 to 10 miles away. It was a bark, and sailed the same direction we did. We could see it very plainly. It also had reeved topsails like our ship. Some of the boys asked: 'Where did that ship come from so suddenly? Did anybody see it before?' 'No,' nobody had seen it until all at once it appeared right opposite. We stood and watched if a while and were glad we at least had seen another ship. For about 6 weeks we had seen neither ships, land or anything but sea and sky. After we had looked at the ship for some time and wondered how it could have come so near us without being seen before, we became busy again and nobody looked at the strange ship for a few minutes. Then someone again looked in the direction of the ship, and called to the rest: 'What became of the ship?' We all looked up and out over the sea where we had seen the phantom a few minutes earlier, but no ship was to be seen anywhere. Then someone said: 'That was the Flying Dutchman. No wonder we did not see it while it approached us. It disappeared as rapidly and mysteriously as it had come in sight.
+
+The story of it is old and has been related in various forms. Generally, it runs like this: At the time the Hollanders began to sail their ships to India there was among them a proud captain who wanted to complete his voyage in the shortest possible time. When he reached Cape Good Hope on his return to [Holland](https://en.wikipedia.org/wiki/Holland) there met him the stiff contrary gale from Northwest that frequently blows down along the west coast of Africa. But rather than seek harbor for a while and wait for favorable wind he set sail and began to tack against the storm. After a while, his officers and men became tired of fighting the gale and advised their captain to find a harbor and wait for fair weather. 'We shall round the Cape and up the coast of Africa without waiting for any abatement or change in wind or weather,' he said, 'and we shall do it if we have to sail in all eternity.' His words became his fate, as it is said, and there he is sailing to this day. So runs the story, but the fact is it is a mirage or fata morgana. The ship we saw was probably the reflection of a ship hundreds of miles away, and by some mirror effect in the air it became visible to us for a few minutes.
+
+When we had come almost over to Australia we set our course northerly again, and there we came into the southeast tradewind, which was favorable till we again reached the Equator in the [Indian Ocean](https://en.wikipedia.org/wiki/Indian_Ocean). And here we had to pass through a belt of calm or variable and unsteady wind until we reached the northeast tradewind. When we came out of it, we had very fine weather and suitable winds until we reached Rangoon.
+
+---
 
 ## More Content Coming Soon!
 
-#### The Flying Dutchman
 #### Rangoon, Burmah
 #### Peaceful Hindoos
 #### The Pagoda
