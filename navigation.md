@@ -2,9 +2,9 @@
 
 [Projects]()
 
-* [![Markdown logo](../images/markdown-button.png "Markdown") &nbsp;finnoybu.github.io](https://github.com/finnoybu/finnoybu.github.io)
+* [![Markdown logo](../images/markdown-button.png "Markdown") &nbsp;finnoybu.github.io](https://finnoybu.com)
 * [![Python logo](../images/python-button.png "Python") &nbsp;Digital forensics scripts](https://github.com/finnoybu/dfir)
-* [![Markdown logo](../images/markdown-button.png "Markdown") &nbsp;Memoirs of Olavus Vastbo](https://github.com/finnoybu/memoirs)
+* [![Markdown logo](../images/markdown-button.png "Markdown") &nbsp;Memoirs of Olavus Vastbo](https://memoirs.finnoybu.com)
 
 
 [Contact]()
