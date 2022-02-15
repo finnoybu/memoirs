@@ -1803,7 +1803,7 @@ The story of it is old and has been related in various forms. Generally, it runs
 
 When we had come almost over to Australia we set our course northerly again, and there we came into the southeast tradewind, which was favorable till we again reached the Equator in the [Indian Ocean](https://en.wikipedia.org/wiki/Indian_Ocean). And here we had to pass through a belt of calm or variable and unsteady wind until we reached the northeast tradewind. When we came out of it, we had very fine weather and suitable winds until we reached Rangoon.
 
----
+--- 
 
 ## More Content Coming Soon!
 
