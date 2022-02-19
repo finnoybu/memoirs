@@ -1778,7 +1778,7 @@ One night a brisk wind was blowing; the sky was overcast and quite dark. I saw a
 
 ---
 
-### Neptune - A Barber
+## Neptune - A Barber
 
 We were nearing the Equator. There is a maritime fable, known to all experienced sailors, and sometimes so vividly related as to be quite effective on the novices, who are approaching the Equator for the first time. The story is to the effect that, just as the ship goes over the line the sea-god Neptune comes aboard for a visit. If he then finds a man onboard who is bearded and who has not crossed the Equator before, such man is liable to have trouble. The easiest treatment he may expect is to have his whiskers shorn before he goes over the line. But if he resists Neptune may take him along when he goes back into the ocean.
 
