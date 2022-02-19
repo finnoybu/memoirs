@@ -1817,7 +1817,7 @@ When we had come almost over to Australia we set our course northerly again, and
 #### Back to Europe
 #### A Seamonster
 #### A memorable Voyage in the Baltic
-#### Sailing in Fear of Shiprwreck
+#### Sailing in Fear of Shipwreck
 #### Longing for Sunny Seas and Tradewinds
 #### To Cuba for a Load of Sugar
 #### In Boston
