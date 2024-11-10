@@ -1,0 +1,12 @@
+{
+  "short_name": "Finnoybu",
+  "name": "Finnoybu Memoirs",
+  "description": "A Sailor's Reminiscences From The Days Of The Sailships",
+  "author": "Olavus Vullum Bjørnson Vestbø",
+  "lang": "en",
+  "start_url": ".",
+  "theme_color": "#1e2328",
+  "background_color": "#1e2328",
+  "display": "standalone",
+  "id": "/memoirs/"
+}

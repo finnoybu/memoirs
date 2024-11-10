@@ -1376,7 +1376,10 @@ The next night both of them deserted, probably each afraid the other would kill,
 
 Now, the first mate expected he would be made captain of the ship. But soon he received word from the owners that they were sending another captain onboard, and asked him, in the meantime, to take care of the ship. Then the first mate also lost interest in the ship and was ready to leave as soon as the new captain should arrive.
 
-Festive Days in the Slaveship
+--- 
+
+## Festive Days in the Slaveship
+
 The next morning, I woke with a feeling that it was late. I called the Dane and asked if he had not been called. 'I have heard nothing,' he said. 'Well,' I said, 'We don't get up before we are called.' We lay there and waited for call until about 9 o'clock, when an elderly man, a stranger, came into the forecastle, carrying a large tray, on which there was beefsteak, fried potatoes, new-baked bread with butter, and coffee, and he said: 'If you please now, boys, you may arise, and have a little breakfast.' The smell of this excellent breakfast filled the forecastle, but we could hardly believe either our noses or our eyes. Was it a dream? Or had a miracle happened? We asked the man who he was, and was told that he had been hired to cook for us; and he also told us he was an old steward from Stavanger, but had now resided in New York fifteen years.
 
 We needed no more than that first invitation to eat. We were hungry as wolves, and had not had much but hogfeed since we left Hamburg. And now, this wonderful and delicious wedding breakfast, - we could simply not believe it was a reality. But we ate until we were well filled, - for the first time in two and a half months. We eased ourselves into our clothes, opened the door, cast a random look forward and aft, to know we were in our ship sure enough, and then considered what wonders would happen next.
@@ -1775,7 +1778,7 @@ One night a brisk wind was blowing; the sky was overcast and quite dark. I saw a
 
 ---
 
-### Neptune - A Barber
+## Neptune - A Barber
 
 We were nearing the Equator. There is a maritime fable, known to all experienced sailors, and sometimes so vividly related as to be quite effective on the novices, who are approaching the Equator for the first time. The story is to the effect that, just as the ship goes over the line the sea-god Neptune comes aboard for a visit. If he then finds a man onboard who is bearded and who has not crossed the Equator before, such man is liable to have trouble. The easiest treatment he may expect is to have his whiskers shorn before he goes over the line. But if he resists Neptune may take him along when he goes back into the ocean.
 
@@ -1814,7 +1817,7 @@ When we had come almost over to Australia we set our course northerly again, and
 #### Back to Europe
 #### A Seamonster
 #### A memorable Voyage in the Baltic
-#### Sailing in Fear of Shiprwreck
+#### Sailing in Fear of Shipwreck
 #### Longing for Sunny Seas and Tradewinds
 #### To Cuba for a Load of Sugar
 #### In Boston
